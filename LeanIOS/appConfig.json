@@ -1,0 +1,953 @@
+{
+  "general": {
+    "userAgentRegexes": [],
+    "replaceStrings": [],
+    "nativeBridgeUrls": [],
+    "languages": [],
+    "userAgentAdd": "gonative",
+    "enableWindowOpen": true,
+    "forceScreenOrientation": null,
+    "initialUrl": "https://korner20.com",
+    "appName": "KORNER20",
+    "publicKey": "pmepqz",
+    "deviceRegKey": "9a9c1m9ezd76gmnpcm5hca6364",
+    "androidPackageName": "io.gonative.android.pmepqz",
+    "androidVersionName": "1.0.7",
+    "iosBundleId": "io.gonative.ios.pmepqz",
+    "iosCustomHeaders": {},
+    "androidCustomHeaders": {}
+  },
+  "navigation": {
+    "iosSettings": {},
+    "tabNavigation": {
+      "tabSelectionConfig": [
+        {
+          "id": "1",
+          "regex": ""
+        }
+      ],
+      "tabMenus": [
+        {
+          "items": [
+            {
+              "subLinks": []
+            }
+          ],
+          "id": "1"
+        }
+      ],
+      "active": false
+    },
+    "sidebarNavigation": {
+      "menuSelectionConfig": {
+        "redirectLocations": [
+          {
+            "regex": null,
+            "menuName": "default",
+            "loggedIn": false
+          },
+          {
+            "regex": ".*",
+            "menuName": "default",
+            "loggedIn": true
+          }
+        ],
+        "testURL": null
+      },
+      "menus": [
+        {
+          "items": [
+            {
+              "subLinks": [],
+              "label": "HOME",
+              "url": "https://korner20.com",
+              "icon": "fas fa-house-damage"
+            },
+            {
+              "subLinks": [
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/nuova-collezione",
+                  "label": "ULTIMI ARRIVI"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/tshirt",
+                  "label": "T SHIRT"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/camicie",
+                  "label": "CAMICIE"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/felpe-1",
+                  "label": "FELPE"
+                },
+                {
+                  "subLinks": [],
+                  "label": "MAGLIERIA",
+                  "url": "https://korner20.com/collections/maglieria-1"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/giacche-e-capispalla",
+                  "label": "GIACCHE E CAPISPALLA"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/smanicati",
+                  "label": "SMANICATI"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/pantaloni-2",
+                  "label": "PANTALONI"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/jeans-1",
+                  "label": "JEANS"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/bermuda",
+                  "label": "BERMUDA"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/costumi-1",
+                  "label": "COSTUMI"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/completi",
+                  "label": "COMPLETI"
+                }
+              ],
+              "label": "NUOVA COLLEZIONE",
+              "isGrouping": true,
+              "icon": null,
+              "url": "https://korner20.com/collections/nuova-collezione-s-s-2022"
+            },
+            {
+              "subLinks": [
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/outlet",
+                  "label": "VEDI TUTTO"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/t-shirt-outlet",
+                  "label": "T SHIRT"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/camicie-outlet",
+                  "label": "CAMICIE"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/felpe-outlet",
+                  "label": "FELPE"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/maglieria-outlet",
+                  "label": "MAGLIERIA"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/giacche-e-capispalla-outlet",
+                  "label": "GIACCHE E CAPISPALLA"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/smanicati-outlet",
+                  "label": "SMANICATI"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/pantaloni-outlet",
+                  "label": "PANTALONI"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/jeans-outlet",
+                  "label": "JEANS"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/bermuda-outlet",
+                  "label": "BERMUDA"
+                },
+                {
+                  "subLinks": [],
+                  "label": "COSTUMI",
+                  "url": "https://korner20.com/collections/costumi-outlet"
+                }
+              ],
+              "label": "SALDI",
+              "isGrouping": true,
+              "icon": null,
+              "url": "https://korner20.com/collections/nuova-collezione-f-w-2021-2022"
+            },
+            {
+              "subLinks": [],
+              "label": "SCARPE",
+              "url": "https://korner20.com/collections/scarpe",
+              "icon": null
+            },
+            {
+              "subLinks": [
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/cappelli",
+                  "label": "CAPPELLI E CUFFIE"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/collane",
+                  "label": "COLLANE"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/bracciali",
+                  "label": "BRACCIALI"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/anelli",
+                  "label": "ANELLI"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/orecchini",
+                  "label": "ORECCHINI"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/catene",
+                  "label": "CATENE"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/calzini",
+                  "label": "CALZINI E SCIARPE"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/pochette",
+                  "label": "POCHETTE BORSE E PORTAFOGLI"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/cinture",
+                  "label": "CINTURE"
+                }
+              ],
+              "label": "ACCESSORI",
+              "isGrouping": true,
+              "icon": null,
+              "url": "https://korner20.com/collections/accessori"
+            },
+            {
+              "subLinks": [
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/abbigliamento-donna-1",
+                  "label": "ULTIMI ARRIVI"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/t-shirt-body-e-top",
+                  "label": "T SHIRT BODY E TOP"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/felpe-donna-1",
+                  "label": "FELPE"
+                },
+                {
+                  "subLinks": [],
+                  "label": "MAGLIERIA",
+                  "url": "https://korner20.com/collections/maglieria-donna-1"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/abiti",
+                  "label": "ABITI"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/giacche-e-blazer",
+                  "label": "GIACCHE E BLAZER"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/cardigan",
+                  "label": "CARDIGAN"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/gonne",
+                  "label": "GONNE"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/short",
+                  "label": "SHORT"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/jeans",
+                  "label": "JEANS"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/jeans-levis",
+                  "label": "JEANS LEVIS"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/pantaloni-1",
+                  "label": "PANTALONI"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/set-coordinati",
+                  "label": "SET COORDINATI"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/costumi",
+                  "label": "COSTUMI"
+                }
+              ],
+              "label": "ABBIGLIAMENTO DONNA",
+              "isGrouping": true,
+              "icon": null,
+              "url": "https://korner20.com/collections/abbigliamento-donna-1"
+            },
+            {
+              "subLinks": [
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/donna",
+                  "label": "ULTIMI ARRIVI"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/borse",
+                  "label": "BORSE"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/scarpe-donna",
+                  "label": "SCARPE"
+                },
+                {
+                  "subLinks": [],
+                  "label": "CUFFIE E CAPPELLI",
+                  "url": "https://korner20.com/collections/cappelli-e-cuffie-donna"
+                },
+                {
+                  "subLinks": [],
+                  "label": "SCIARPE E FOULARD",
+                  "url": "https://korner20.com/collections/foulard-e-sciarpe"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/orecchini-1",
+                  "label": "ORECCHINI"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/anelli-1",
+                  "label": "ANELLI"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/collane-1",
+                  "label": "COLLANE"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/bracciali-1",
+                  "label": "BRACCIALI"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/calzini-donna",
+                  "label": "CALZINI"
+                }
+              ],
+              "label": "DONNA ACCESSORI",
+              "isGrouping": true,
+              "icon": null,
+              "url": "https://korner20.com/collections/donna"
+            },
+            {
+              "subLinks": [
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/abbigliamento-donna",
+                  "label": "ULTIMI ARRIVI"
+                },
+                {
+                  "subLinks": [],
+                  "label": "T SHIRT BODY E TOP",
+                  "url": "https://korner20.com/collections/t-shirt-body-e-top-outlet"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/maglieria-donna",
+                  "label": "MAGLIERIA"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/felepe-donna",
+                  "label": "FELPE"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/abiti-donna",
+                  "label": "ABITI"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/blazer-donna-1",
+                  "label": "GIACCHE E BLAZER"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/cardigan-donna",
+                  "label": "CARDIGAN"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/capispalla-donna",
+                  "label": "CAPISPALLA"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/jeans-donna",
+                  "label": "JEANS"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/pantaloni-donna",
+                  "label": "PANTALONI"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/gonne-donna",
+                  "label": "GONNE E SHORT"
+                },
+                {
+                  "subLinks": [],
+                  "label": "SET COORDINATI",
+                  "url": "https://korner20.com/collections/set-coordinati-donna"
+                }
+              ],
+              "label": "SALDI DONNA",
+              "isGrouping": true,
+              "icon": null,
+              "url": "https://korner20.com/collections/abbigliamento-donna"
+            },
+            {
+              "subLinks": [
+                {
+                  "subLinks": [],
+                  "label": "Barrow",
+                  "url": "https://korner20.com/collections/barrow"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/berna-italia",
+                  "label": "Berna Italia"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/bl-11-block-eleven",
+                  "label": "Bl.11 Block Eleven"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/loft1",
+                  "label": "Loft1"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/f-k-effek",
+                  "label": "F**K Effek"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/jb4-justbefore",
+                  "label": "Jb4 Justbefore"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/pablic",
+                  "label": "Pablic"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/overd",
+                  "label": "Over-d"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/outfit-italy",
+                  "label": "Outfit Italy"
+                },
+                {
+                  "subLinks": [],
+                  "label": "Propaganda",
+                  "url": "https://korner20.com/collections/propaganda"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/imomi",
+                  "label": "Imomi"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/new-job-brand-njb",
+                  "label": "New job Brand"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/squad",
+                  "label": "Squad2"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/v2-brand",
+                  "label": "V2 Brand"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/gianni-lupo",
+                  "label": "Gianni Lupo"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/why-not-brand",
+                  "label": "Why Not Brand"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/klixs-jeans",
+                  "label": "Klixs Jeans"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/tematico",
+                  "label": "Tematico"
+                },
+                {
+                  "subLinks": [],
+                  "label": "Wolm",
+                  "url": "https://korner20.com/collections/wolm"
+                },
+                {
+                  "subLinks": [],
+                  "label": "Lumina",
+                  "url": "https://korner20.com/collections/lumina"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/limited-edition",
+                  "label": "Limited Edition"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/boy-london",
+                  "label": "Boy London"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/displaj",
+                  "label": "Displaj"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/landek",
+                  "label": "Landek"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/justwest",
+                  "label": "J.W Justwest"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/le-pas-sage",
+                  "label": "Le Pas Sage"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/goorin-bros",
+                  "label": "Goorin Bros"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/capslab",
+                  "label": "CAPSLAB"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/blacksunday",
+                  "label": "Blacksunday"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/akiro",
+                  "label": "Akirò"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/levis",
+                  "label": "Levis"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/look-inside",
+                  "label": "Look Inside"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/minimal",
+                  "label": "Minimal"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/evolver",
+                  "label": "Evolver"
+                },
+                {
+                  "subLinks": [],
+                  "url": "https://korner20.com/collections/sn1",
+                  "label": "#Sn1"
+                }
+              ],
+              "label": "BRAND",
+              "isGrouping": true,
+              "icon": null
+            },
+            {
+              "subLinks": [],
+              "label": "FIDELITY CARD",
+              "url": "https://korner20.com/#smile-home",
+              "icon": "fas fa-fire"
+            },
+            {
+              "subLinks": [],
+              "label": "BUONI REGALO",
+              "url": "https://korner20.com/products/buono-regalo",
+              "icon": "fas fa-gift"
+            },
+            {
+              "subLinks": [],
+              "label": "SPEDIZIONI E RESI",
+              "url": "https://korner20.com/pages/spedizioni-e-resi",
+              "icon": "fas fa-truck-arrow-right"
+            },
+            {
+              "label": "ACCOUNT",
+              "url": "",
+              "isGrouping": true,
+              "subLinks": [],
+              "icon": "fas fa-user"
+            },
+            {
+              "label": "ACCEDI",
+              "url": "https://korner20.com/account/login",
+              "subLinks": []
+            },
+            {
+              "label": "REGISTRATI ORA ",
+              "url": "https://korner20.com/account/login",
+              "subLinks": []
+            },
+            {
+              "label": "LISTA DESIDERI",
+              "url": "https://korner20.com/pages/wishlist",
+              "subLinks": []
+            }
+          ],
+          "name": "default",
+          "active": true
+        },
+        {
+          "items": [
+            {
+              "subLinks": [],
+              "label": "Sample Home",
+              "url": "http://www.korner20.com/home"
+            },
+            {
+              "subLinks": [],
+              "label": "Sample About",
+              "url": "http://www.korner20.com/about"
+            }
+          ],
+          "name": "loggedIn",
+          "active": false
+        }
+      ]
+    },
+    "regexInternalExternal": {
+      "rules": [
+        {
+          "regex": "^(?!https?://).*",
+          "internal": false
+        },
+        {
+          "regex": "https?://([-\\w]+\\.)*facebook\\.com/login.php.*",
+          "internal": true
+        },
+        {
+          "regex": "https?://([-\\w]+\\.)*facebook\\.com/dialog.*",
+          "internal": true
+        },
+        {
+          "regex": "https://m.facebook.com/Korner-20-940382732832545/?ref=",
+          "internal": false
+        },
+        {
+          "regex": "https://www.instagram.com/korner_20/",
+          "internal": false
+        },
+        {
+          "regex": "https?://maps\\.google\\.com.*",
+          "internal": false
+        }
+      ],
+      "active": true
+    },
+    "androidPullToRefresh": true,
+    "iosPullToRefresh": true,
+    "navigationTitles": {
+      "titles": [
+        {
+          "id": 1
+        }
+      ],
+      "active": true
+    },
+    "ignorePageFinishedRegexes": [],
+    "redirects": [],
+    "androidShowRefreshButton": true,
+    "iosShowRefreshButton": true,
+    "deepLinkDomains": {
+      "domains": [],
+      "enableAndroidApplinks": false
+    },
+    "navigationLevels": {
+      "levels": [],
+      "active": true
+    },
+    "toolbarNavigation": {
+      "visibility": "anyItemEnabled",
+      "items": [
+        {
+          "system": "back",
+          "titleType": "defaultText",
+          "visibility": "allPages",
+          "urlRegex": [
+            {
+              "enabled": true,
+              "regex": ".*"
+            }
+          ]
+        },
+        {
+          "system": "refresh",
+          "enabled": false,
+          "visibility": "allPages",
+          "urlRegex": [
+            {
+              "enabled": true,
+              "regex": ".*"
+            }
+          ]
+        },
+        {
+          "system": "forward",
+          "enabled": false,
+          "titleType": "defaultText",
+          "visibility": "allPages",
+          "urlRegex": [
+            {
+              "enabled": true,
+              "regex": ".*"
+            }
+          ]
+        }
+      ],
+      "regexes": [
+        {
+          "enabled": true,
+          "regex": ".*"
+        }
+      ],
+      "enabled": true,
+      "visibilityByPages": "allPages",
+      "visibilityByBackButton": "backButtonActive"
+    },
+    "iosConnectionOfflineTime": 10,
+    "androidConnectionOfflineTime": 10,
+    "actionConfig": {
+      "active": true,
+      "actions": [],
+      "actionSelection": []
+    },
+    "androidShowOfflinePage": false,
+    "iosShowOfflinePage": false,
+    "offlinePageHtml": ""
+  },
+  "styling": {
+    "iosLaunchScreen": {
+      "backgroundColor": "#000000",
+      "backgroundImage": "https://s3.amazonaws.com/gonativeio/images_generated/1631358686942_tb91bu57kdgee_000000_1_2x2.png",
+      "centerImage": "https://s3.amazonaws.com/gonativeio/images_generated/1631358673054_1tzn0hfpdyye6.png",
+      "backgroundColorDark": "#000000",
+      "centerImageDark": "https://s3.amazonaws.com/gonativeio/images_generated/1631358673054_1tzn0hfpdyye6.png"
+    },
+    "androidLaunchImages": {
+      "mdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1631363820243_p3dz0f811nuky_180x180.9.png",
+      "hdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1631363820243_871vnrv30j21y_270x270.9.png",
+      "xhdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1631363820243_c24b0k9nxwbpa_360x360.9.png",
+      "xxhdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1631363820243_jvpk9ju6yxc62_540x540.9.png",
+      "xxxhdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1631363820243_zfetxh5pdpnyr_720x720.9.png"
+    },
+    "androidLaunchImagesDark": {},
+    "customIcons": {},
+    "transitionInteractiveDelayMax": 0.2,
+    "menuAnimationDuration": 0.15,
+    "androidShowSplash": true,
+    "disableAnimations": true,
+    "hideWebviewAlpha": 0.5,
+    "icon": "https://gonativeio.s3.amazonaws.com/uploads/gpnk0u2u2pc6w_1631363941496.png",
+    "iosHeaderImage": "https://gonativeio.s3.amazonaws.com/uploads/1b74721tmug02_1631707636571.png",
+    "showActionBar": true,
+    "showNavigationBar": true,
+    "iosSidebarFont": "AmericanTypewriter-CondensedBold",
+    "androidHideTitleInActionBar": true,
+    "navigationTitleImage": true,
+    "iosTheme": "default",
+    "androidTheme": "light",
+    "androidSidebarBackgroundColor": "#FFFFFF",
+    "androidSidebarForegroundColor": "#000000",
+    "androidActionBarBackgroundColor": "#FFFFFF",
+    "androidActionBarForegroundColor": "#000000",
+    "androidPullToRefreshColor": "#ff0000",
+    "androidAccentColor": "#ff0000",
+    "androidSidebarSeparatorColor": "#DBDBDB",
+    "androidTabBarBackgroundColor": "#000000",
+    "androidTabBarTextColor": "#FFFFFF",
+    "androidTabBarIndicatorColor": "#FFFFFF",
+    "androidStatusBarBackgroundColor": "#000000",
+    "iosTintColor": "#000000",
+    "iosTitleColor": "#FFFFFF",
+    "iosSidebarTextColor": "#000000",
+    "navigationTitleImageLocation": "https://gonativeio.s3.amazonaws.com/uploads/e7w36hfc2v686_1631707542695.png",
+    "androidHeaderImage": "https://gonativeio.s3.amazonaws.com/uploads/ca15uy9080b1g_1631707586724.png",
+    "customCSS": ".mobile-nav,\n.header-logo,\n.js-mobile-nav-toggle {\n  visibility: hidden !important;\n}\n#shopify-privacy-banner-div,\nfooter {\n display: none !important;\n}",
+    "iosIcon": "https://gonativeio.s3.amazonaws.com/uploads/gpnk0u2u2pc6w_1631363941496.png",
+    "iosDarkMode": "auto",
+    "iosTintColorDark": "#000000",
+    "iosStatusBarBackgroundColor": "#ffffffff",
+    "iosStatusBarBackgroundColorDark": "#000000",
+    "androidIcon": "https://gonativeio.s3.amazonaws.com/uploads/gpnk0u2u2pc6w_1631363941496.png",
+    "androidBackgroundColor": "#FFFFFF",
+    "androidBackgroundColorDark": "#1E496E",
+    "androidAccentColorDark": "#ff0000",
+    "androidStatusBarBackgroundColorDark": "#000000",
+    "androidPullToRefreshColorDark": "#ff0000",
+    "androidWebviewTextZoom": 100,
+    "androidSwipeNavigationBackgroundColor": "#ffffff",
+    "androidSwipeNavigationBackgroundColorDark": "#333333",
+    "androidSwipeNavigationActiveColor": "#000000",
+    "androidSwipeNavigationActiveColorDark": "#ffffff",
+    "androidSwipeNavigationInactiveColor": "#666666",
+    "androidSwipeNavigationInactiveColorDark": "#666666",
+    "navigationTitleImageLocationDark": "https://gonativeio.s3.amazonaws.com/uploads/e7w36hfc2v686_1631707542695.png",
+    "iosTitleColorDark": "#FFFFFF",
+    "iosNavigationBarTintColor": "#f8f8f8",
+    "iosNavigationBarTintColorDark": "#333333",
+    "androidActionBarBackgroundColorDark": "#FFFFFF",
+    "androidHeaderImageDark": "https://gonativeio.s3.amazonaws.com/uploads/ca15uy9080b1g_1631707586724.png",
+    "androidActionBarForegroundColorDark": "#000000",
+    "iosSidebarBackgroundColor": "#f8f8f8",
+    "iosSidebarBackgroundColorDark": "#333333",
+    "iosHeaderImageDark": "https://gonativeio.s3.amazonaws.com/uploads/1b74721tmug02_1631707636571.png",
+    "iosSidebarTextColorDark": "#000000",
+    "androidSidebarBackgroundColorDark": "#FFFFFF",
+    "androidSidebarForegroundColorDark": "#000000",
+    "androidSidebarSeparatorColorDark": "#DBDBDB",
+    "androidSidebarHighlightColor": "#1e496e",
+    "androidSidebarHighlightColorDark": "#ffffff",
+    "androidShowLogoInSideBar": true,
+    "androidShowAppNameInSideBar": true,
+    "androidTabBarBackgroundColorDark": "#000000",
+    "androidTabBarTextColorDark": "#FFFFFF",
+    "androidTabBarIndicatorColorDark": "#FFFFFF",
+    "iosTabBarTintColor": "#f8f8f8",
+    "iosTabBarTintColorDark": "#333333"
+  },
+  "forms": {
+    "search": {
+      "active": true,
+      "searchTemplateURL": "https://korner20.com/a/search?q="
+    }
+  },
+  "permissions": {
+    "usesGeolocation": true,
+    "androidDownloadToPublicStorage": false,
+    "enableWebRTC": false,
+    "iOSATTUserTrackingDescription": "",
+    "iOSRequestATTConsentOnLoad": false
+  },
+  "services": {
+    "push": {
+      "active": false
+    },
+    "analytics": {
+      "active": false
+    },
+    "parse": {
+      "active": false,
+      "pushEnabled": false
+    },
+    "facebook": {
+      "active": false
+    },
+    "oneSignal": {
+      "active": true,
+      "notificationExtension": true,
+      "applicationId": "e3b08153-de88-4d43-82c7-8aa22eadb59a",
+      "plugin": "binary",
+      "iosPluginName": "OneSignalPlugin"
+    },
+    "registration": {
+      "active": false,
+      "endpoints": [
+        {
+          "url": null,
+          "urlRegex": null,
+          "dataType": [
+            "parse",
+            "oneSignal",
+            "xtremepush"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+PODS:
+  - GoNativeCore (1.3.13)
+  - GonativeIcons (1.0.4)
+  - OneSignal (3.11.2):
+    - OneSignal/OneSignalCore (= 3.11.2)
+    - OneSignal/OneSignalExtension (= 3.11.2)
+    - OneSignal/OneSignalOutcomes (= 3.11.2)
+  - OneSignal/OneSignalCore (3.11.2)
+  - OneSignal/OneSignalExtension (3.11.2):
+    - OneSignal/OneSignalCore
+    - OneSignal/OneSignalOutcomes
+  - OneSignal/OneSignalOutcomes (3.11.2):
+    - OneSignal/OneSignalCore
+  - OneSignalPlugin/Binary (0.1.12):
+    - GoNativeCore
+    - OneSignal (~> 3)
+
+DEPENDENCIES:
+  - GoNativeCore
+  - GonativeIcons
+  - OneSignal (~> 3.10)
+  - OneSignalPlugin/Binary
+
+SPEC REPOS:
+  "git@github.com:gonativeio/gonative-specs.git":
+    - GoNativeCore
+    - GonativeIcons
+    - OneSignalPlugin
+  trunk:
+    - OneSignal
+
+SPEC CHECKSUMS:
+  GoNativeCore: e215a15d74eab99a92f5bd0bd2270eb3dddfcc87
+  GonativeIcons: 84e1db4f23a3a5615f4d66991e22934b97ee9326
+  OneSignal: 8861a1407c321ca1ae59d3adca6286eb7caf9d6e
+  OneSignalPlugin: cdf56179e61e0f70b9943b38fb160bbe61889a95
+
+PODFILE CHECKSUM: 439265d476df567ca1cf307ff29c4188cf003a0a
+
+COCOAPODS: 1.11.3
